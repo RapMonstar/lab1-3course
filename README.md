@@ -1,2 +1,2 @@
-# WindowApplication 
+# Window Application 
 Удалить столбец, сумма элементов которого максимальна.
